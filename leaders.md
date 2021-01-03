@@ -19,3 +19,4 @@
 * Michael Schaefer
 * Tobias Glemser
 * Torsten Gigler
+* Timo Pagel
